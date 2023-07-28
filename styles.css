@@ -1,1 +1,42 @@
 /* Write your CSS here! */
+body {
+    width:100%;
+    margin: 8px;
+    display: block;
+    font-size: 125%;
+
+}
+
+#mainHeading {
+    color: red;
+}
+
+#testP.funParagraph {
+    color: green;
+}
+ 
+header h1 {
+    text-align: center;
+}
+figure{
+    margin: 0;
+    padding: 0;
+}
+figcaption {
+    text-align: center;
+}
+
+.printer-pics{
+    display: flex;
+    justify-content: center
+}
+
+.setup-pics{
+    display: flex;
+    justify-content: center
+}
+
+.stang-pic {
+    display: flex;
+    justify-content: center;
+}
